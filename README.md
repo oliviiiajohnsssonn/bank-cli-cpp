@@ -1,2 +1,4 @@
-# bank-cli-cpp
+# Bank Cli Cpp
+
 A console banking deposit/withdrawal utility in C++.
+
